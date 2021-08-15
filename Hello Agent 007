@@ -1,0 +1,49 @@
+#include <stdio.h>
+#include <conio.h> //bir tuşla etkileşime girerek yazıyı çıkarmayı sağlayan kütüphane komutu.
+int main() {
+	
+	char c1 = 72;
+	char c2 = 69;
+	char c3 = 76;
+	char c4 = 76;
+	char c5 = 79;
+	char c6 = 65;	
+	char c7 = 71;
+	char c8 = 69;
+	char c9 = 78;
+	char c10 = 84;
+	char c11 = 48;
+	char c12 = 48;
+	char c13 = 55;
+	
+	printf("%c %c %c %c %c  %c%c%c%c%c %c%c%c\n",c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13);
+	//Yazı Yazma
+
+	
+	
+	
+	
+	
+	
+	
+	
+	getch(); //bir tuşla etkileşime girerek yazıyı çıkarmayı sağlayan fonksiyon
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+return 0;
+}
